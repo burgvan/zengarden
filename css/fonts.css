@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* Remember to include font credits*/
+
+
+@font-face {
+    font-family: 'LeanderRegular';
+    src: url('../fonts/Leander-webfont.eot');
+    src: url('../fonts/Leander-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Leander-webfont.woff') format('woff'),
+         url('../fonts/Leander-webfont.ttf') format('truetype'),
+         url('../fonts/Leander-webfont.svg#LeanderRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+
+}
